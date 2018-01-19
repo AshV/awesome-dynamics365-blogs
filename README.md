@@ -1,6 +1,6 @@
 # Curated Collection of Dynamics 365 Content
 
-> [Add your own or some good blog/content you know about Dynamics 365](add.md)
+> [Add your own or some good blog/content you know about Dynamics 365.](add.md) | | [why?](why.md)
 
 ---
 1. [Arun Potti's MS CRM blog](https://arunpotti.wordpress.com/) | Blog by Arun Potti
