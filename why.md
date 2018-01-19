@@ -4,3 +4,5 @@
 2. Reach to more audience. Many authors who write awesome content but lack of popularity.
 
 [Go back to List](README.md) | [Add Content](add.md)
+
+Any suggestions are welcome, contact me directly or raise as an issue.
