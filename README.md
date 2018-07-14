@@ -1,14 +1,14 @@
 # Curated Collection of Dynamics 365 Content
 
-> [Add your own or some good blog/content you know about Dynamics 365.](add.md) | | [why?](why.md)
+> [Add your own or some good blog/content you know about Dynamics 365.](add.md) | | [why to add?](why.md)
 
 ---
-1. [Dynamics Girl](http://SharmaPurnima.com/) | Blog by [Purnima Sharma](https://in.linkedin.com/in/purnima-sharma-17b014b2)
-1. [Arun Potti's MS CRM blog](https://arunpotti.wordpress.com/) | Blog by Arun Potti
-1. [Nishant Rana's Weblog Everything related to Microsoft .NET Technology](https://nishantrana.me/) | Blog by Nishant Rana
-1. [Rajeev Pentyala – Dynamics 365 Blog on Dynamics 365 , Azure & .Net Stack](https://rajeevpentyala.com/) | Blog by Rajeev Pentyala
-1. [Hemant Kumar Sahu – Dynamics 365 CRM & 365 Portal Blogs](http://www.c-sharpcorner.com/blogs/how-to-create-custom-lookup-view-in-crm2) | Blog by [Hemant Kumar Sahu](https://www.linkedin.com/in/hemant-kumar-005a7b58)
-1. [Microsoft Dynamics 365 blocks Everything about Microsoft Dynamics 365 by vishal grade](https://dynamics365blocks.wordpress.com/) | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
-1. [CRM Blocks](https://crmblocks.blogspot.in/) | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
-1. [The CRM Book](https://crmbook.powerobjects.com/) | Tutorial by [Power Objetcs](https://powerobjects.com/)
-1. [Dynamics 365, USD & PSA](https://neilparkhurst.com/) | Blog by Neil Parkhurst
+1. http://SharmaPurnima.com | Blog by [Dynamics Girl - Purnima Sharma](https://in.linkedin.com/in/purnima-sharma-17b014b2)
+1. https://ArunPotti.wordpress.com | Blog by Arun Potti
+1. https://NishantRana.me | Blog by Nishant Rana
+1. https://RajeevPentyala.com | Blog by Rajeev Pentyala
+1. https://www.c-sharpcorner.com/members/hemant-kumar64 | Blog by [Hemant Kumar Sahu](https://www.linkedin.com/in/hemant-kumar-005a7b58)
+1. https://dynamics365blocks.wordpress.com | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
+1. https://crmblocks.blogspot.in | Blog by [Vishal Grade](https://www.linkedin.com/in/dynamics365blocks/)
+1. https://crmbook.powerobjects.com | Tutorial by [Power Objetcs](https://powerobjects.com/)
+1. https://NeilParkhurst.com | Blog by Neil Parkhurst
