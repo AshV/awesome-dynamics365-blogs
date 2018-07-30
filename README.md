@@ -45,4 +45,5 @@
 1. https://jkkdynamiccrm.blogspot.com | Blog by Kranthi
 1. https://crmjharana38.blogspot.com | Blog by Jharana
 1. https://crmpankaj.blogspot.com | Blog by Pankaj
-1. https://dreamingincrm.com | Blog by [Natraj Yegnaraman](https://www.linkedin.com/in/natrajyegnaraman/)
+1. https://DreamingInCRM.com | Blog by [Natraj Yegnaraman](https://www.linkedin.com/in/natrajyegnaraman/)
+1. https://ThatCrmBlog.wordpress.com | Blog by [Leontribe](https://twitter.com/leontribe)
