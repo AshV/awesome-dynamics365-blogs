@@ -54,3 +54,4 @@
 1. https://themscrmexpert.wordpress.com | Blog by Yadnyesh
 1. http://himbap.com/blog | Blog by Mahendar Pal
 1. https://bettercrm.blog | Blog by Paweł Gradecki
+1. http://www.aayushsingh.in | Blog by Aayush Singh
