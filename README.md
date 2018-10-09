@@ -52,3 +52,4 @@
 1. http://mscrmuk.blogspot.in | Blog by David Jennaway
 1. http://missdynamicscrm.blogspot.in | Blog by Aileen Gusni
 1. https://themscrmexpert.wordpress.com | Blog by Yadnyesh
+1. http://himbap.com/blog | Blog by Mahendar Pal
