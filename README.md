@@ -51,3 +51,4 @@
 1. http://www.crmonce.com | Blog by Uma Mahesh Dasari
 1. http://mscrmuk.blogspot.in | Blog by David Jennaway
 1. http://missdynamicscrm.blogspot.in | Blog by Aileen Gusni
+1. https://themscrmexpert.wordpress.com | Blog by Yadnyesh
