@@ -48,3 +48,5 @@
 1. https://DreamingInCRM.com | Blog by [Natraj Yegnaraman](https://www.linkedin.com/in/natrajyegnaraman/)
 1. https://ThatCrmBlog.wordpress.com | Blog by [Leontribe](https://twitter.com/leontribe)
 1. https://crmmatthew.com/ | Blog by [Matthew Webb](https://www.linkedin.com/in/matthewwebb316/)
+1. http://www.crmonce.com | Blog by Uma Mahesh Dasari
+1. http://mscrmuk.blogspot.in | Blog by David Jennaway
