@@ -53,3 +53,4 @@
 1. http://missdynamicscrm.blogspot.in | Blog by Aileen Gusni
 1. https://themscrmexpert.wordpress.com | Blog by Yadnyesh
 1. http://himbap.com/blog | Blog by Mahendar Pal
+1. https://bettercrm.blog | Blog by Paweł Gradecki
