@@ -57,3 +57,4 @@
 1. http://www.aayushsingh.in | Blog by Aayush Singh
 1. https://www.crmanswers.net | Blog by [Guido Preite](https://www.linkedin.com/in/guidopreite)
 1. https://nothingnessit.wordpress.com | Blog by [Alessandro Graps](https://www.linkedin.com/in/alessandrograps/)
+1. https://evolved365.com/ | Blog by [Thanura](https://www.linkedin.com/in/thanura-wijesiriwardena-5b269920/)
