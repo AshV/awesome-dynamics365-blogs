@@ -1,6 +1,6 @@
 # Curated Collection of Dynamics 365 Content
 
-> [Add your own or some good blog/content you know about Dynamics 365.](add.md) | | [why to add?](why.md)
+> [Add your own or some good blog/content you know about Dynamics 365.](add.md) | | [why to add?](why.md) | | [Report Abuse](https://github.com/AshV/awesome-dynamics365-blogs/issues/new)
 
 ---
 1. http://SharmaPurnima.com | Blog by [Dynamics Girl - Purnima Sharma](https://in.linkedin.com/in/purnima-sharma-17b014b2)
@@ -31,7 +31,7 @@
 1. https://www.briteglobal.com/blogs | Blog in Brite Global by Aric Levin
 1. https://jlattimer.blogspot.com | Blog by Jason Lattimer
 1. https://mscrmgmr.blogspot.com | Blog by Malla Reddy Gurram
-1. https://gustafwesterlund.blogspot.com | Blog by Gustaf Westerlund
+1. https://gustafwesterlund.blogspot.com | Blog by [Gustaf Westerlund](https://www.linkedin.com/in/gustafwesterlund/)
 1. http://www.mohamedmostafa.co.uk/blog | Blog by Mohamed Mostafa
 1. http://blog.mtccrm.com | Blog in MTC CRM
 1. https://salimadamoncrm.com | Blog by Salim Adamon
