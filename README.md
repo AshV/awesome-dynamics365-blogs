@@ -3,6 +3,7 @@
 > [Add your own or some good blog/content you know about Dynamics 365.](add.md) | | [why to add?](why.md) | | [Report Abuse](https://github.com/AshV/awesome-dynamics365-blogs/issues/new)
 
 ---
+1. http://D365Champions.com | A community of enthusiastic Dynamcis 365 Champions | join today if not already
 1. http://SharmaPurnima.com | Blog by [Dynamics Girl - Purnima Sharma](https://in.linkedin.com/in/purnima-sharma-17b014b2)
 1. https://ArunPotti.wordpress.com | Blog by Arun Potti
 1. https://NishantRana.me | Blog by Nishant Rana
